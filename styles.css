@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif;
 	text-align: center;
-	text-shadow: 2px 2px 4px #f00a0a;
+	text-shadow: 2px 2px 4px #ff0000;
 	color: #000607;
 	font-size: 30px;
 	margin-top: 80px;
@@ -81,3 +81,4 @@ button {
 	cursor: pointer;
 
 }
+
